@@ -49,8 +49,8 @@ jobs:
       - name: 运行脚本
         run: pnpm start
         env:
-          WX_COMPANY_ID: ${{ secrets.WX_COMPANY_ID }}
-          WX_APP_ID: ${{ secrets.WX_APP_ID }}
-          WX_APP_SECRET: ${{ secrets.WX_APP_SECRET }}
-          TIAN_API_KEY: ${{ secrets.TIAN_API_KEY }}
+          WX_COMPANY_ID: 西西嘉
+          WX_APP_ID: 1000002
+          WX_APP_SECRET:tp73wvuImXB4MSloiLsxBkQT6yithQfxsH_I-I_wh4A
+          TIAN_API_KEY: eb19bb7ffc92cb3aac99cf9d82c16c9e
           MESSAGE_TYPE: goodMorning
