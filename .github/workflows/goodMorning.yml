@@ -1,4 +1,4 @@
-name: GoodMorning
+name: 西西嘉
 on:
   workflow_dispatch:
     branches:
